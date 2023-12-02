@@ -18,3 +18,7 @@ Just activate and go to your Profile page and scroll down to Dashboard Site lang
 Enjoy!
 
 
+How to install:
+
+Download the php file, compress it as zip and upload/install in wordpress.
+
