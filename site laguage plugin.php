@@ -3,7 +3,7 @@
 Plugin Name: WP Site Language Per User
 Description: A WordPress plugin to set the dashboard "site" language based on user preference.
 Version: 1.0
-Author: Your Name
+Author: Bananacy
 */
 
 
@@ -68,4 +68,3 @@ function set_dashboard_language() {
 }
 
 add_action('init', 'set_dashboard_language');
-
